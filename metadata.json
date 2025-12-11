@@ -1,0 +1,7 @@
+{
+  "name": "Horizon | Sun Observer",
+  "description": "An intelligent assistant for tracking sunrise and sunset, providing optimal viewing times, location-based spot recommendations, and weather-based photography advice.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
